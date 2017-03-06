@@ -5,9 +5,47 @@ ActiveRecord::Base.establish_connection(
   database: 'homework.sqlite3'
 )
 
-class Person < ActiveRecord::Base
+class Clinet < ActiveRecord::Base
 
 end
+
+class Comment < ActiveRecord::Base
+
+end
+
+class Developer < ActiveRecord::Base
+
+end
+
+class GroupAssignment < ActiveRecord::Base
+
+end
+
+class Group < ActiveRecord::Base
+
+end
+
+class ProjectAssignment< ActiveRecord::Base
+
+end
+
+class Project< ActiveRecord::Base
+
+end
+
+class SchemaMigration < ActiveRecord::Base
+
+end
+
+class SqliteSequence < ActiveRecord::Base
+
+end
+
+class TimeEntry < ActiveRecord::Base
+
+end
+
+
 
 
 
