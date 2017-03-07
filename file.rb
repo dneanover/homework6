@@ -48,13 +48,6 @@ end
 
 
 
-
-#Each class is a table
-#Each instance of that class is a row
-#person class, corinne is an instance
-
-
-
 # A Gist. For each of the questions below, add the following information to your gist:
 # The original question text
 # Your final SQL query (which you must have run and validated on the included database)
